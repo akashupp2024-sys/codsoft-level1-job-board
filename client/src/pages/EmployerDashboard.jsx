@@ -17,7 +17,7 @@ function EmployerDashboard() {
   const fetchJobs = async () => {
 
     const res = await axios.get(
-      "http://localhost:5000/api/jobs"
+      "https://job-board-backend-tm6e.onrender.com/api/jobs"
     );
 
     setJobs(res.data);
@@ -43,7 +43,7 @@ function EmployerDashboard() {
     e.preventDefault();
 
     await axios.post(
-      "http://localhost:5000/api/jobs",
+      "https://job-board-backend-tm6e.onrender.com/api/jobs",
       formData
     );
 
@@ -55,7 +55,7 @@ function EmployerDashboard() {
   const deleteJob = async (id) => {
 
     await axios.delete(
-      `http://localhost:5000/api/jobs/${id}`
+      `https://job-board-backend-tm6e.onrender.com/api/jobs/${id}`
     );
 
     fetchJobs();
