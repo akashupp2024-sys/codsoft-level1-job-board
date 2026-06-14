@@ -8,7 +8,7 @@ function Applicants() {
   useEffect(() => {
 
     axios.get(
-      "http://localhost:5000/api/applications"
+      "https://job-board-backend-tm6e.onrender.com/api/applications"
     )
     .then(res => setApplications(res.data))
     .catch(err => console.log(err));
@@ -43,7 +43,7 @@ function Applicants() {
               </p>
 
               <a
-                href={`http://localhost:5000/uploads/${app.resume}`}
+                href={`https://job-board-backend-tm6e.onrender.com/uploads/${app.resume}`}
                 target="_blank"
                 rel="noreferrer"
                 className="bg-green-600 text-white px-5 py-3 rounded-xl inline-block"

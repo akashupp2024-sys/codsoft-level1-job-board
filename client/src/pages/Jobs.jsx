@@ -8,7 +8,7 @@ function Jobs() {
 
   useEffect(() => {
 
-    axios.get("http://localhost:5000/api/jobs")
+    axios.get("https://job-board-backend-tm6e.onrender.com/api/jobs")
       .then(res => setJobs(res.data))
       .catch(err => console.log(err));
 

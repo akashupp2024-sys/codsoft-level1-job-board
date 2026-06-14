@@ -49,7 +49,7 @@ function ApplyJob() {
     try {
 
       await axios.post(
-        "http://localhost:5000/api/applications/apply",
+        "https://job-board-backend-tm6e.onrender.com/api/applications/apply",
         data
       );
 
