@@ -107,7 +107,7 @@ findjob.png
 loginpage.png
 
 - Apply Job Page
-Applyjob.png
+https://github.com/akashupp2024-sys/codsoft-level1-job-board/blob/main/screenshots/Applyjob.png
 
 - Employer Dashboard
 EmployerDashboard.png
