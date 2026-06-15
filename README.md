@@ -98,19 +98,19 @@ job-board-project/
 Add screenshots here:
 
 - Home Page
-<img width="1902" height="1031" alt="Screenshot 2026-06-15 164001" src="https://github.com/user-attachments/assets/0b481786-ddff-4389-b48e-a202c5c6935b" />
+homepage.png
 
 - Jobs Page
-<img width="1902" height="1025" alt="Screenshot 2026-06-15 164016" src="https://github.com/user-attachments/assets/2da3cd4c-7968-4624-babb-687a7df69a98" />
+findjob.png
 
 - Login Page
-<img width="1903" height="1022" alt="Screenshot 2026-06-15 164725" src="https://github.com/user-attachments/assets/feec9ceb-d032-4159-964b-8ad9f71b3399" />
+loginpage.png
 
 - Apply Job Page
-<img width="1903" height="1028" alt="Screenshot 2026-06-15 164100" src="https://github.com/user-attachments/assets/69a1202a-20e4-4cd9-bd11-cd3caec43d09" />
+Applyjob.png
 
 - Employer Dashboard
-<img width="1902" height="1033" alt="Screenshot 2026-06-15 164034" src="https://github.com/user-attachments/assets/3a2aef2e-73a9-474b-bc20-697f0e665b38" />
+EmployerDashboard.png
 
 
 ---
