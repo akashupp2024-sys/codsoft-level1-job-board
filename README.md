@@ -91,27 +91,24 @@ job-board-project/
 |--------|-----------|-------------|
 | POST | /api/applications/apply | Apply for a Job |
 
----
 
-## Screenshots
 
-Add screenshots here:
+## 📸 Screenshots
 
-- Home Page
-homepage.png
+### Home Page
+![Home Page](screenshots/homepage.png)
 
-- Jobs Page
-findjob.png
+### Jobs Page
+![Jobs Page](screenshots/findjob.png)
 
-- Login Page
-loginpage.png
+### Login Page
+![Login Page](screenshots/login.png)
 
-- Apply Job Page
-https://github.com/akashupp2024-sys/codsoft-level1-job-board/blob/main/screenshots/Applyjob.png
+### Apply Job Page
+![Apply Job Page](screenshots/Applyjob.png)
 
-- Employer Dashboard
-EmployerDashboard.png
-
+### Employer Dashboard
+![Employer Dashboard](screenshots/EmployerDashboard.png)
 
 ---
 
