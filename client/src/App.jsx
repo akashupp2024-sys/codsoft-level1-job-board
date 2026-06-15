@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
-
 import Home from "./pages/Home";
 import Jobs from "./pages/Jobs";
 import Login from "./pages/Login";
@@ -20,18 +19,9 @@ function App() {
         <Route path="/jobs" element={<Jobs />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
-        <Route
-          path="/employer"
-          element={<EmployerDashboard />}
-        />
-        <Route
-          path="/applicants"
-          element={<Applicants />}
-        />
-        <Route
-          path="/apply/:id"
-          element={<ApplyJob />}
-        />
+        <Route path="/employer" element={<EmployerDashboard />} />
+        <Route path="/applicants" element={<Applicants />} />
+        <Route path="/apply/:id" element={<ApplyJob />} />
       </Routes>
     </BrowserRouter>
   );
