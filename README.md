@@ -47,6 +47,23 @@ A full-stack Job Board web application where users can browse jobs, register, lo
 - Backend: Render
 - Database: MongoDB Atlas
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Jobs Page
+![Jobs Page](screenshots/findjob.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Apply Job Page
+![Apply Job Page](screenshots/Applyjob.png)
+
+### Employer Dashboard
+![Employer Dashboard](screenshots/EmployerDashboard.png)
+
 ---
 
 ## 📂 Project Structure
@@ -90,27 +107,6 @@ job-board-project/
 | Method | Endpoint | Description |
 |--------|-----------|-------------|
 | POST | /api/applications/apply | Apply for a Job |
-
-
-
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshots/homepage.png)
-
-### Jobs Page
-![Jobs Page](screenshots/findjob.png)
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Apply Job Page
-![Apply Job Page](screenshots/Applyjob.png)
-
-### Employer Dashboard
-![Employer Dashboard](screenshots/EmployerDashboard.png)
-
----
 
 ## Future Improvements
 
